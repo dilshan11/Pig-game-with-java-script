@@ -46,7 +46,7 @@ function swing1(){
              if(v) {
                  h1=h1+c;
                     document.getElementById(player+'h').innerText=h1;
-                    if(h1>10){
+                    if(h1>100){
                         document.getElementById('sq1').innerText='Winner';
                     }
                 }else{
@@ -61,7 +61,7 @@ function swing1(){
         if(v) {
             h2=h2+c;
                document.getElementById(player+'h').innerText=h2;
-               if(h2>10){
+               if(h2>100){
                 document.getElementById('sq2').innerText='Winner';
             }
            }

@@ -1,0 +1,49 @@
+.player1{
+    background-color: beige
+}
+.player2{
+    background-color: beige
+}
+.player3{
+    background-color: beige
+}
+.a1{
+   height:400px 
+}
+.a0{
+    height: 100px;
+}
+.b1{
+    position: relative;
+    top: 100px;
+    display: inline;
+}
+.b2{
+    position: relative;
+    top: 120px;
+    display: inline; 
+}
+.diceimg{
+    position: relative;
+    top:50px;
+}
+.s1{
+    font-size: 50px
+}
+.q1{
+    display: block;
+    height: 33.33%;
+}
+.as{
+    background-color: red;
+    height: 70px;
+    width: 90px;
+}
+.asp{
+    position: relative;
+    top: 20px;
+}
+.bq{
+    position: relative;
+    top: 10px
+}
